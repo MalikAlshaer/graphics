@@ -1,4 +1,4 @@
-Made using the formulas introduced by (Tsoding) [https://www.youtube.com/@Tsoding]
+Made using the formulas introduced by (Tsoding)[https://www.youtube.com/@Tsoding]
 
 Creats a 3d cube using the given files
 
